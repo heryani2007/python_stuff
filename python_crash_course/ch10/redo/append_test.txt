@@ -1,0 +1,7 @@
+My first programming course was at Berlin International School (HTML)
+My second programming class was at Umass (Java)
+My third programming class was at Umass (Perl)
+My fourth programming class was while I was working (PowerShell)
+My fifth programming class was while I was working CS50 (C,HTML,CSS,JS,Python)
+My sixth programming class was while I was at USC CS50P (Python)
+My seventh programming "class" was while I was at USC Crash Course (Python)
