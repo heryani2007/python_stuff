@@ -1,0 +1,12 @@
+#include <cs50.h>
+#include <stdio.h>
+
+int main (void)
+{
+	string magicians[] = {"alice","david","carol"};
+	for (int i = 0 ; i < sizeof(magicians)/sizeof(magicians[0]) ; i++)
+		{
+			printf("%s\n", magicians[i]);
+
+		}
+}
