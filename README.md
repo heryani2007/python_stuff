@@ -1,4 +1,3 @@
-#README.md
 CS50P > Python MOOC > Python Crash Course > 100 Days of Code
 
 CS50P (8/10) - Not beginer friendly but rapid. 
